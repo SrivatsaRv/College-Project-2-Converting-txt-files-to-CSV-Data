@@ -1,2 +1,1 @@
-# Converting-.txt-files-to-CSV-Data
-Data as we know today is the new oil, and one can only use it to its full extent only if the data set obtained is clear and organized. This project aims to solve the issue of disoriented .txt files or the ones that are not in order, which have spaces and newlines between a word. It will be achieved using by capturing all data in the text file into a dictionary format and then writing them into a CSV file. Making use of SED Unix functioanilty along with a C++ script that has been implemented, Such files can further be used as clean data set for ML applications. The primary intention here is to show how data is classified and sorted before it is declared a data set.
+
